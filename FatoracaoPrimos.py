@@ -13,6 +13,7 @@ def ValidaPrimo(a):
 	return True
 
 def fatora(n):
+	#solucao do abnaldo
 	fatores = []
 	i = 2
 	while n > 1:
