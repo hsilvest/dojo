@@ -1,9 +1,9 @@
-dojo
+Coding Dojo
 ====
 
-## Códigos fonte dos Dojos Organizados na Cadsoft
+### Códigos fonte dos Dojos Organizados na Cadsoft
 
-### 1 Dojo: Geração de Fatores Primos
+#### 1 Dojo: Geração de Fatores Primos
 
 Este problema foi utilizado em 49 Dojo(s).
 Todo número inteiro positivo pode ser representado pelo produto de potências de números primos (os chamados fatores primos).
@@ -18,7 +18,7 @@ Desenvolva um programa que dado um número inteiro positivo, retorne os seus fat
 Fonte: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
 
 
-### 2 Dojo: Identificando Progressões Aritméticas
+#### 2 Dojo: Identificando Progressões Aritméticas
 
 Este problema foi utilizado em 22 Dojo(s).
 Uma progressão aritmética (PA) é um seqüência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com uma constante R positiva (denominada razão).
