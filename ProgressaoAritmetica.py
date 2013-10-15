@@ -7,12 +7,12 @@ r = 1
 
 #ar =  (1,2,3,4,5) 
 
-for x in ar:
-	lisAux.append(x)
-	lisAux.append(x + 1)
-	lisAux.append(x +1+1)
-	if ar.sequenciaExiste(lisAux):
-		listaFinal.append(lisAux)
+for (x = 1,  x<= (ar.Strlen/3), x++):
+
+	for x in ar:
+		lisAux.append(x)
+		if ar.sequenciaExiste(lisAux):
+			listaFinal.append(lisAux)
 
 
 

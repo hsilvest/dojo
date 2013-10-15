@@ -5,7 +5,7 @@ Coding Dojo
 
 #### 1 Dojo: Geração de Fatores Primos
 
-Este problema foi utilizado em 49 Dojo(s).
+
 Todo número inteiro positivo pode ser representado pelo produto de potências de números primos (os chamados fatores primos).
 Por exemplo o número 6 pode ser representado pelo produto do números primos 2 x 3.
 Outros exemplos:
@@ -20,7 +20,7 @@ Fonte: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
 
 #### 2 Dojo: Identificando Progressões Aritméticas
 
-Este problema foi utilizado em 22 Dojo(s).
+
 Uma progressão aritmética (PA) é um seqüência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com uma constante R positiva (denominada razão).
 A fórmula geral de uma PA é:
 an = a1 + (n - 1) * R
